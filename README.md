@@ -18,7 +18,7 @@ Let's connect and see how we can create amazing mobile experiences together!
   <a href="https://www.facebook.com/MahmoudTarekFouad" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" alt="Facebook"/>
   </a>
-  <a href="https://www.linkedin.com/in/mahmoud-elgamal22" target="_blank" rel="noreferrer">
+  <a href="https://www.linkedin.com/in/mahmoud-tarek22/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn"/>
   </a>
 </p>
